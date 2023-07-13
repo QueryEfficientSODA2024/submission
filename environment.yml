@@ -1,0 +1,8 @@
+name: swordfish-3.11-SODA24
+channels:
+- conda-forge
+dependencies:
+- pip=23.1.2
+- seaborn=0.12.2
+- conda=23.5.0
+- matplotlib=3.7.1
